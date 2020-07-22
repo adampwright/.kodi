@@ -1,8 +1,4 @@
 <settings>
-    <setting id="weatherfanart.multi" type="bool">false</setting>
-    <setting id="Disable.ShowBackgroundVideo" type="bool">false</setting>
-    <setting id="infobar_hidetuners" type="bool">false</setting>
-    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
     <setting id="Disable.ShowBackgroundVis" type="bool">false</setting>
     <setting id="Enable.AutoScroll" type="bool">false</setting>
     <setting id="Disable.Extrafanart" type="bool">false</setting>
@@ -29,13 +25,11 @@
     <setting id="Disable.NextAired" type="bool">true</setting>
     <setting id="KioskMode.Enabled" type="bool">false</setting>
     <setting id="Enable.SlimList" type="bool">false</setting>
-    <setting id="ShutdownHomeItem.SubMenu" type="string"></setting>
+    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
+    <setting id="infobar_hidetuners" type="bool">false</setting>
+    <setting id="weatherfanart.multi" type="bool">false</setting>
+    <setting id="Disable.ShowBackgroundVideo" type="bool">false</setting>
     <setting id="Custom3HomeItem.Label" type="string"></setting>
-    <setting id="ProgramsHomeItem.Path" type="string"></setting>
-    <setting id="weathericons.path" type="string"></setting>
-    <setting id="FavoritesHomeItem.MultiFanart" type="string"></setting>
-    <setting id="VideosHomeItem.Label" type="string"></setting>
-    <setting id="Custom4HomeItem.WidgetLabel" type="string"></setting>
     <setting id="Custom1HomeItem.BGType" type="string"></setting>
     <setting id="TVShowHomeItem.MultiFanart" type="string"></setting>
     <setting id="Custom5HomeItem.MultiFanart" type="string"></setting>
@@ -90,6 +84,12 @@
     <setting id="Custom2HomeItem.BGType" type="string"></setting>
     <setting id="MusicVideoHomeItem.SubMenu" type="string"></setting>
     <setting id="MusicVideoHomeItem.WidgetType" type="string"></setting>
+    <setting id="FavoritesHomeItem.MultiFanart" type="string"></setting>
+    <setting id="ShutdownHomeItem.SubMenu" type="string"></setting>
+    <setting id="VideosHomeItem.Label" type="string"></setting>
+    <setting id="ProgramsHomeItem.Path" type="string"></setting>
+    <setting id="Custom4HomeItem.WidgetLabel" type="string"></setting>
+    <setting id="weathericons.path" type="string"></setting>
     <setting id="Custom3HomeItem.MultiFanart" type="string"></setting>
     <setting id="Custom2HomeItem.Icon" type="string"></setting>
     <setting id="PicturesHomeItem.Disable" type="string">True</setting>
