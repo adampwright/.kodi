@@ -1,0 +1,27 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>Training</name>
+            <path pathversion="1">/home/wrightway/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>fusiono</name>
+            <path pathversion="1">http://fusion.tvaddons.co/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>
