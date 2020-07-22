@@ -1,8 +1,4 @@
 <settings>
-    <setting id="HorizontalListNav" type="bool">false</setting>
-    <setting id="Disable.NextAired" type="bool">false</setting>
-    <setting id="KioskMode.Enabled" type="bool">false</setting>
-    <setting id="Enable.SlimList" type="bool">false</setting>
     <setting id="weatherfanart.multi" type="bool">false</setting>
     <setting id="Disable.ShowBackgroundVideo" type="bool">false</setting>
     <setting id="infobar_hidetuners" type="bool">false</setting>
@@ -28,13 +24,11 @@
     <setting id="nohighlist" type="bool">false</setting>
     <setting id="Banner.Wall" type="bool">false</setting>
     <setting id="503.InfoPanel" type="bool">false</setting>
-    <setting id="MovieHomeItem.Widget" type="string"></setting>
-    <setting id="ProgramsHomeItem.SubMenu" type="string"></setting>
-    <setting id="StudioLogos.name" type="string"></setting>
-    <setting id="FavoritesHomeItem.Icon" type="string"></setting>
-    <setting id="Custom2HomeItem.BGType" type="string"></setting>
-    <setting id="WeatherHomeItem.WidgetType" type="string"></setting>
-    <setting id="MusicVideoHomeItem.SubMenu" type="string"></setting>
+    <setting id="Disable.Resumable" type="bool">false</setting>
+    <setting id="HorizontalListNav" type="bool">false</setting>
+    <setting id="Disable.NextAired" type="bool">true</setting>
+    <setting id="KioskMode.Enabled" type="bool">false</setting>
+    <setting id="Enable.SlimList" type="bool">false</setting>
     <setting id="ShutdownHomeItem.SubMenu" type="string"></setting>
     <setting id="Custom3HomeItem.Label" type="string"></setting>
     <setting id="ProgramsHomeItem.Path" type="string"></setting>
@@ -88,6 +82,13 @@
     <setting id="ProgramsHomeItem.BGType" type="string"></setting>
     <setting id="TVShowHomeItem.Widget" type="string"></setting>
     <setting id="Custom2HomeItem.SubMenu" type="string"></setting>
+    <setting id="MovieHomeItem.Widget" type="string"></setting>
+    <setting id="ProgramsHomeItem.SubMenu" type="string"></setting>
+    <setting id="WeatherHomeItem.WidgetType" type="string"></setting>
+    <setting id="FavoritesHomeItem.Icon" type="string"></setting>
+    <setting id="StudioLogos.name" type="string"></setting>
+    <setting id="Custom2HomeItem.BGType" type="string"></setting>
+    <setting id="MusicVideoHomeItem.SubMenu" type="string"></setting>
     <setting id="MusicVideoHomeItem.WidgetType" type="string"></setting>
     <setting id="Custom3HomeItem.MultiFanart" type="string"></setting>
     <setting id="Custom2HomeItem.Icon" type="string"></setting>
@@ -252,4 +253,5 @@
     <setting id="MusicVideos.Fallback" type="string"></setting>
     <setting id="Videos.Fallback" type="string"></setting>
     <setting id="StudioLogos.path" type="string"></setting>
+    <setting id="Overlay.Toggle" type="string"></setting>
 </settings>
