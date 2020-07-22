@@ -99,8 +99,8 @@
         <addonbrokenfilter default="true">true</addonbrokenfilter>
         <addonforeignfilter default="true">false</addonforeignfilter>
         <addonnotifications default="true">false</addonnotifications>
-        <addonupdates default="true">0</addonupdates>
-        <settinglevel>2</settinglevel>
+        <addonupdates>2</addonupdates>
+        <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
@@ -131,7 +131,7 @@
     </locale>
     <lookandfeel>
         <enablerssfeeds default="true">false</enablerssfeeds>
-        <font default="true">Default</font>
+        <font>DefaultNoCaps</font>
         <rssedit default="true"></rssedit>
         <skin>skin.confluence</skin>
         <skincolors default="true">SKINDEFAULT</skincolors>
@@ -399,18 +399,18 @@
         <cmsmode default="true">0</cmsmode>
         <cmsprimaries default="true">0</cmsprimaries>
         <cmswhitepoint default="true">0</cmswhitepoint>
-        <delayrefreshchange>198</delayrefreshchange>
+        <delayrefreshchange default="true">0</delayrefreshchange>
         <displayprofile default="true"></displayprofile>
         <dither default="true">false</dither>
         <ditherdepth default="true">8</ditherdepth>
         <fakefullscreen default="true">true</fakefullscreen>
         <limitedrange default="true">false</limitedrange>
-        <monitor>default</monitor>
+        <monitor default="true">Default</monitor>
         <noofbuffers default="true">3</noofbuffers>
         <preferedstereoscopicmode default="true">100</preferedstereoscopicmode>
-        <resolution>15</resolution>
+        <resolution default="true">16</resolution>
         <screen default="true">0</screen>
-        <screenmode>WINDOW</screenmode>
+        <screenmode default="true">DESKTOP</screenmode>
         <stereoscopicmode default="true">0</stereoscopicmode>
     </videoscreen>
     <weather>

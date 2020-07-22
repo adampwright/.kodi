@@ -1,134 +1,109 @@
-﻿14:22:52.889 T:139921697473280  NOTICE: special://profile/ is mapped to: special://masterprofile/
-14:22:52.889 T:139921697473280  NOTICE: -----------------------------------------------------------------------
-14:22:52.889 T:139921697473280  NOTICE: Starting Kodi from Debian (17.6 Debian package version: 2:17.6+dfsg1-4+b1). Platform: Linux x86 64-bit
-14:22:52.889 T:139921697473280  NOTICE: Using Release Kodi from Debian x64 build
-14:22:52.889 T:139921697473280  NOTICE: Kodi from Debian compiled from 2:17.6+dfsg1-4+b1 by GCC 8.2.0 for Linux x86 64-bit version 4.19.16 (267024)
-14:22:52.889 T:139921697473280  NOTICE: Running on Debian GNU/Linux 10 (buster), kernel: Linux x86 64-bit version 4.19.0-9-amd64
-14:22:52.889 T:139921697473280  NOTICE: FFmpeg version/source: 4.1.6-1~deb10u1
-14:22:52.889 T:139921697473280  NOTICE: Host CPU: Intel(R) Xeon(R) Bronze 3104 CPU @ 1.70GHz, 1 core available
-14:22:52.889 T:139921697473280  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
-14:22:52.889 T:139921697473280  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi
-14:22:52.889 T:139921697473280  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi/addons
-14:22:52.889 T:139921697473280  NOTICE: special://masterprofile/ is mapped to: /root/.kodi/userdata
-14:22:52.889 T:139921697473280  NOTICE: special://envhome/ is mapped to: /root
-14:22:52.889 T:139921697473280  NOTICE: special://home/ is mapped to: /root/.kodi
-14:22:52.889 T:139921697473280  NOTICE: special://temp/ is mapped to: /root/.kodi/temp
-14:22:52.889 T:139921697473280  NOTICE: special://logpath/ is mapped to: /root/.kodi/temp
-14:22:52.889 T:139921697473280  NOTICE: The executable running is: /usr/lib/x86_64-linux-gnu/kodi/kodi.bin
-14:22:52.889 T:139921697473280  NOTICE: Local hostname: wrightway
-14:22:52.889 T:139921697473280  NOTICE: Log File is located: /root/.kodi/temp//kodi.log
-14:22:52.889 T:139921697473280  NOTICE: -----------------------------------------------------------------------
-14:22:52.891 T:139921697473280   ERROR: DBus: Error org.freedesktop.DBus.Error.ServiceUnknown - The name org.freedesktop.UPower was not provided by any .service files
-14:22:52.902 T:139921697473280  NOTICE: load settings...
-14:22:52.914 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:22:52.914 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:22:52.919 T:139921697473280  NOTICE: No Devices found - retry: 4
-14:22:54.421 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:22:54.421 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:22:54.425 T:139921697473280  NOTICE: No Devices found - retry: 3
-14:22:55.926 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:22:55.926 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:22:55.931 T:139921697473280  NOTICE: No Devices found - retry: 2
-14:22:57.432 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:22:57.433 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:22:57.437 T:139921697473280  NOTICE: No Devices found - retry: 1
-14:22:58.939 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:22:58.939 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:22:58.943 T:139921697473280  NOTICE: Found 0 Lists of Devices
-14:22:58.944 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:22:58.944 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:22:58.948 T:139921697473280  NOTICE: No Devices found - retry: 4
-14:23:00.449 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:23:00.449 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:00.453 T:139921697473280  NOTICE: No Devices found - retry: 3
-14:23:01.954 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:23:01.954 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:01.959 T:139921697473280  NOTICE: No Devices found - retry: 2
-14:23:03.460 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:23:03.460 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:03.465 T:139921697473280  NOTICE: No Devices found - retry: 1
-14:23:04.966 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:23:04.966 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:04.971 T:139921697473280  NOTICE: Found 0 Lists of Devices
-14:23:04.973 T:139921697473280  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
-14:23:04.973 T:139921697473280  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
-14:23:04.973 T:139921697473280  NOTICE: Default Video Player: VideoPlayer
-14:23:04.973 T:139921697473280  NOTICE: Default Audio Player: paplayer
-14:23:04.973 T:139921697473280  NOTICE: Disabled debug logging due to GUI setting. Level 0.
-14:23:04.973 T:139921697473280  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
-14:23:04.973 T:139921697473280  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
-14:23:04.973 T:139921697473280  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
-14:23:04.974 T:139921697473280  NOTICE: Loaded playercorefactory configuration
-14:23:04.974 T:139921697473280  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
-14:23:04.974 T:139921697473280  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
-14:23:04.977 T:139921697473280  NOTICE: Running database version Addons27
-14:23:04.992 T:139921697473280  NOTICE: ADDONS: Using repository repository.xbmc.org
-14:23:04.994 T:139921672177408   ERROR: PulseAudio: Failed to connect context
-14:23:04.994 T:139921672177408  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:04.998 T:139921672177408  NOTICE: No Devices found - retry: 4
-14:23:06.499 T:139921672177408   ERROR: PulseAudio: Failed to connect context
-14:23:06.499 T:139921672177408  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:06.504 T:139921672177408  NOTICE: No Devices found - retry: 3
-14:23:08.005 T:139921672177408   ERROR: PulseAudio: Failed to connect context
-14:23:08.005 T:139921672177408  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:08.010 T:139921672177408  NOTICE: No Devices found - retry: 2
-14:23:09.511 T:139921672177408   ERROR: PulseAudio: Failed to connect context
-14:23:09.511 T:139921672177408  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:09.516 T:139921672177408  NOTICE: No Devices found - retry: 1
-14:23:11.017 T:139921672177408   ERROR: PulseAudio: Failed to connect context
-14:23:11.017 T:139921672177408  NOTICE: PulseAudio might not be running. Context was not created.
-14:23:11.021 T:139921672177408  NOTICE: Found 0 Lists of Devices
-14:23:11.024 T:139921672177408 WARNING: ActiveAE::Configure - sink returned large buffer of 249 ms, reducing to 100 ms
-14:23:11.124 T:139921697473280  NOTICE: Checking resolution 15
-14:23:11.426 T:139921697473280   ERROR: Failed to determine egl config for visual info
-14:23:11.426 T:139921697473280 WARNING: Visual 0x295 of the window is not suitable, looking for another one...
-14:23:11.427 T:139921697473280  NOTICE: Using visual 0x21
-14:23:11.444 T:139921697473280  NOTICE: Using visual 0x295
-14:23:11.456 T:139921697473280  NOTICE: GL_VENDOR = VMware, Inc.
-14:23:11.456 T:139921697473280  NOTICE: GL_RENDERER = llvmpipe (LLVM 7.0, 256 bits)
-14:23:11.456 T:139921697473280  NOTICE: GL_VERSION = 3.1 Mesa 18.3.6
-14:23:11.456 T:139921697473280  NOTICE: GL_SHADING_LANGUAGE_VERSION = 1.40
-14:23:11.456 T:139921697473280  NOTICE: GL_EXTENSIONS = GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_copy_texture GL_EXT_subtexture GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture GL_EXT_texture3D GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_draw_range_elements GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_separate_specular_color GL_EXT_texture_edge_clamp GL_SGIS_generate_mipmap GL_SGIS_texture_border_clamp GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_ARB_framebuffer_sRGB GL_ARB_multitexture GL_EXT_framebuffer_sRGB GL_IBM_multimode_draw_arrays GL_IBM_texture_mirrored_repeat GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_transpose_matrix GL_EXT_blend_func_separate GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_secondary_color GL_EXT_texture_env_add GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_compression_s3tc GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_ATI_fragment_shader GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_NV_fog_distance GL_APPLE_packed_pixels GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_MESA_ycbcr_texture GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_ATI_texture_compression_3dc GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_mirror_clamp GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_ATI_texture_mirror_once GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_compression_latc GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_buffer_object GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_compatibility GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_stencil_export GL_ARB_shader_texture_lod GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_ARB_draw_indirect GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_subroutine GL_ARB_texture_compression_bptc GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_viewport_array GL_AMD_multi_draw_indirect GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_base_instance GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_texture_storage GL_ARB_transform_feedback_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_transform_feedback GL_AMD_shader_trinary_minmax GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_clear_buffer_object GL_ARB_copy_image GL_ARB_explicit_uniform_location GL_ARB_fragment_layer_viewport GL_ARB_invalidate_subdata GL_ARB_multi_draw_indirect GL_ARB_program_interface_query GL_ARB_stencil_texturing GL_ARB_texture_buffer_range GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_ARB_texture_view GL_ARB_vertex_attrib_binding GL_KHR_debug GL_KHR_texture_compression_astc_ldr GL_ARB_buffer_storage GL_ARB_clear_texture GL_ARB_enhanced_layouts GL_ARB_internalformat_query2 GL_ARB_multi_bind GL_ARB_seamless_cubemap_per_texture GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_stencil8 GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_shader_integer_mix GL_ARB_clip_control GL_ARB_conditional_render_inverted GL_ARB_cull_distance GL_ARB_direct_state_access GL_ARB_get_texture_sub_image GL_ARB_pipeline_statistics_query GL_ARB_transform_feedback_overflow_query GL_EXT_polygon_offset_clamp GL_KHR_context_flush_control GL_KHR_no_error GL_KHR_texture_compression_astc_sliced_3d GL_MESA_shader_integer_functions GL_ARB_polygon_offset_clamp
-14:23:11.699 T:139921680570112  NOTICE: Running database version Addons27
-14:23:11.700 T:139921680570112  NOTICE: Running database version ViewModes6
-14:23:11.700 T:139921680570112  NOTICE: Running database version Textures13
-14:23:11.701 T:139921680570112  NOTICE: Running database version MyMusic60
-14:23:11.703 T:139921680570112  NOTICE: Running database version MyVideos107
-14:23:11.703 T:139921680570112  NOTICE: Running database version TV29
-14:23:11.704 T:139921680570112  NOTICE: Running database version Epg11
-14:23:11.739 T:139921697473280  NOTICE: start dvd mediatype detection
-14:23:12.139 T:139921697473280 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
-14:23:12.271 T:139921697473280  NOTICE: initialize done
-14:23:12.271 T:139921697473280  NOTICE: Running the application...
-14:23:12.273 T:139921697473280  NOTICE: starting zeroconf publishing
-14:23:12.273 T:139921697473280  NOTICE: CWebServer[8080]: Started
-14:23:12.274 T:139921697473280  NOTICE: starting upnp client
-14:23:12.287 T:139921697473280   ERROR: JSONRPC Server: Failed to connect to sdpd
-14:23:12.307 T:139919783565056  NOTICE: ES: Starting UDP Event server on port 9777
-14:23:12.307 T:139919783565056  NOTICE: UDP: Listening on port 9777 (ipv6 : true)
-14:23:12.358 T:139919983937280  NOTICE: script.grab.fanart: Grab Fanart Service Started
-14:23:17.580 T:139921697473280   ERROR: Window Translator: Can't find window games
-14:30:03.743 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:03.743 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:03.747 T:139921697473280  NOTICE: No Devices found - retry: 4
-14:30:05.248 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:05.248 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:05.257 T:139921697473280  NOTICE: No Devices found - retry: 3
-14:30:06.758 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:06.758 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:06.763 T:139921697473280  NOTICE: No Devices found - retry: 2
-14:30:08.264 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:08.264 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:08.269 T:139921697473280  NOTICE: No Devices found - retry: 1
-14:30:09.770 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:09.770 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:09.775 T:139921697473280  NOTICE: Found 0 Lists of Devices
-14:30:09.776 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:09.776 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:09.780 T:139921697473280  NOTICE: No Devices found - retry: 4
-14:30:11.281 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:11.281 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:11.286 T:139921697473280  NOTICE: No Devices found - retry: 3
-14:30:12.787 T:139921697473280   ERROR: PulseAudio: Failed to connect context
-14:30:12.787 T:139921697473280  NOTICE: PulseAudio might not be running. Context was not created.
-14:30:12.792 T:139921697473280  NOTICE: No Devices found - retry: 2
+﻿16:18:57.199 T:140448571929344  NOTICE: special://profile/ is mapped to: special://masterprofile/
+16:18:57.199 T:140448571929344  NOTICE: -----------------------------------------------------------------------
+16:18:57.199 T:140448571929344  NOTICE: Starting Kodi from Debian (17.6 Debian package version: 2:17.6+dfsg1-4+b1). Platform: Linux x86 64-bit
+16:18:57.199 T:140448571929344  NOTICE: Using Release Kodi from Debian x64 build
+16:18:57.199 T:140448571929344  NOTICE: Kodi from Debian compiled from 2:17.6+dfsg1-4+b1 by GCC 8.2.0 for Linux x86 64-bit version 4.19.16 (267024)
+16:18:57.199 T:140448571929344  NOTICE: Running on Debian GNU/Linux 10 (buster), kernel: Linux x86 64-bit version 4.19.0-9-amd64
+16:18:57.199 T:140448571929344  NOTICE: FFmpeg version/source: 4.1.6-1~deb10u1
+16:18:57.199 T:140448571929344  NOTICE: Host CPU: Intel(R) Xeon(R) Bronze 3104 CPU @ 1.70GHz, 1 core available
+16:18:57.199 T:140448571929344  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+16:18:57.199 T:140448571929344  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi
+16:18:57.199 T:140448571929344  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi/addons
+16:18:57.199 T:140448571929344  NOTICE: special://masterprofile/ is mapped to: /root/.kodi/userdata
+16:18:57.199 T:140448571929344  NOTICE: special://envhome/ is mapped to: /root
+16:18:57.199 T:140448571929344  NOTICE: special://home/ is mapped to: /root/.kodi
+16:18:57.199 T:140448571929344  NOTICE: special://temp/ is mapped to: /root/.kodi/temp
+16:18:57.199 T:140448571929344  NOTICE: special://logpath/ is mapped to: /root/.kodi/temp
+16:18:57.199 T:140448571929344  NOTICE: The executable running is: /usr/lib/x86_64-linux-gnu/kodi/kodi.bin
+16:18:57.199 T:140448571929344  NOTICE: Local hostname: wrightway
+16:18:57.199 T:140448571929344  NOTICE: Log File is located: /root/.kodi/temp//kodi.log
+16:18:57.199 T:140448571929344  NOTICE: -----------------------------------------------------------------------
+16:18:57.202 T:140448571929344   ERROR: DBus: Error org.freedesktop.DBus.Error.ServiceUnknown - The name org.freedesktop.UPower was not provided by any .service files
+16:18:57.216 T:140448571929344  NOTICE: load settings...
+16:18:57.232 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:18:57.232 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:18:57.239 T:140448571929344  NOTICE: No Devices found - retry: 4
+16:18:58.740 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:18:58.740 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:18:58.745 T:140448571929344  NOTICE: No Devices found - retry: 3
+16:19:00.246 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:00.246 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:00.250 T:140448571929344  NOTICE: No Devices found - retry: 2
+16:19:01.751 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:01.751 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:01.756 T:140448571929344  NOTICE: No Devices found - retry: 1
+16:19:03.257 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:03.257 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:03.261 T:140448571929344  NOTICE: Found 0 Lists of Devices
+16:19:03.262 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:03.262 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:03.266 T:140448571929344  NOTICE: No Devices found - retry: 4
+16:19:04.767 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:04.767 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:04.772 T:140448571929344  NOTICE: No Devices found - retry: 3
+16:19:06.273 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:06.273 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:06.277 T:140448571929344  NOTICE: No Devices found - retry: 2
+16:19:07.779 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:07.779 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:07.784 T:140448571929344  NOTICE: No Devices found - retry: 1
+16:19:09.285 T:140448571929344   ERROR: PulseAudio: Failed to connect context
+16:19:09.285 T:140448571929344  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:09.289 T:140448571929344  NOTICE: Found 0 Lists of Devices
+16:19:09.292 T:140448571929344  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+16:19:09.293 T:140448571929344  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+16:19:09.293 T:140448571929344  NOTICE: Default Video Player: VideoPlayer
+16:19:09.293 T:140448571929344  NOTICE: Default Audio Player: paplayer
+16:19:09.293 T:140448571929344  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+16:19:09.293 T:140448571929344  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+16:19:09.293 T:140448571929344  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+16:19:09.293 T:140448571929344  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+16:19:09.293 T:140448571929344  NOTICE: Loaded playercorefactory configuration
+16:19:09.293 T:140448571929344  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+16:19:09.293 T:140448571929344  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+16:19:09.298 T:140448571929344  NOTICE: Running database version Addons27
+16:19:09.338 T:140448571929344  NOTICE: ADDONS: Using repository repository.xbmc.org
+16:19:09.340 T:140448546633472   ERROR: PulseAudio: Failed to connect context
+16:19:09.340 T:140448546633472  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:09.345 T:140448546633472  NOTICE: No Devices found - retry: 4
+16:19:10.846 T:140448546633472   ERROR: PulseAudio: Failed to connect context
+16:19:10.847 T:140448546633472  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:10.852 T:140448546633472  NOTICE: No Devices found - retry: 3
+16:19:12.353 T:140448546633472   ERROR: PulseAudio: Failed to connect context
+16:19:12.353 T:140448546633472  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:12.358 T:140448546633472  NOTICE: No Devices found - retry: 2
+16:19:13.859 T:140448546633472   ERROR: PulseAudio: Failed to connect context
+16:19:13.859 T:140448546633472  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:13.863 T:140448546633472  NOTICE: No Devices found - retry: 1
+16:19:15.364 T:140448546633472   ERROR: PulseAudio: Failed to connect context
+16:19:15.364 T:140448546633472  NOTICE: PulseAudio might not be running. Context was not created.
+16:19:15.369 T:140448546633472  NOTICE: Found 0 Lists of Devices
+16:19:15.371 T:140448546633472 WARNING: ActiveAE::Configure - sink returned large buffer of 249 ms, reducing to 100 ms
+16:19:15.468 T:140448571929344  NOTICE: Checking resolution 16
+16:19:15.806 T:140448571929344   ERROR: Failed to determine egl config for visual info
+16:19:15.806 T:140448571929344 WARNING: Visual 0x295 of the window is not suitable, looking for another one...
+16:19:15.807 T:140448571929344  NOTICE: Using visual 0x21
+16:19:15.829 T:140448571929344  NOTICE: Using visual 0x295
+16:19:15.846 T:140448571929344  NOTICE: GL_VENDOR = VMware, Inc.
+16:19:15.846 T:140448571929344  NOTICE: GL_RENDERER = llvmpipe (LLVM 7.0, 256 bits)
+16:19:15.846 T:140448571929344  NOTICE: GL_VERSION = 3.1 Mesa 18.3.6
+16:19:15.846 T:140448571929344  NOTICE: GL_SHADING_LANGUAGE_VERSION = 1.40
+16:19:15.846 T:140448571929344  NOTICE: GL_EXTENSIONS = GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_copy_texture GL_EXT_subtexture GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture GL_EXT_texture3D GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_draw_range_elements GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_separate_specular_color GL_EXT_texture_edge_clamp GL_SGIS_generate_mipmap GL_SGIS_texture_border_clamp GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_ARB_framebuffer_sRGB GL_ARB_multitexture GL_EXT_framebuffer_sRGB GL_IBM_multimode_draw_arrays GL_IBM_texture_mirrored_repeat GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_transpose_matrix GL_EXT_blend_func_separate GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_secondary_color GL_EXT_texture_env_add GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_compression_s3tc GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_ATI_fragment_shader GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_NV_fog_distance GL_APPLE_packed_pixels GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_MESA_ycbcr_texture GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_ATI_texture_compression_3dc GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_mirror_clamp GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_ATI_texture_mirror_once GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_compression_latc GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_buffer_object GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_compatibility GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_stencil_export GL_ARB_shader_texture_lod GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_ARB_draw_indirect GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_subroutine GL_ARB_texture_compression_bptc GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_viewport_array GL_AMD_multi_draw_indirect GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_base_instance GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_texture_storage GL_ARB_transform_feedback_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_transform_feedback GL_AMD_shader_trinary_minmax GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_clear_buffer_object GL_ARB_copy_image GL_ARB_explicit_uniform_location GL_ARB_fragment_layer_viewport GL_ARB_invalidate_subdata GL_ARB_multi_draw_indirect GL_ARB_program_interface_query GL_ARB_stencil_texturing GL_ARB_texture_buffer_range GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_ARB_texture_view GL_ARB_vertex_attrib_binding GL_KHR_debug GL_KHR_texture_compression_astc_ldr GL_ARB_buffer_storage GL_ARB_clear_texture GL_ARB_enhanced_layouts GL_ARB_internalformat_query2 GL_ARB_multi_bind GL_ARB_seamless_cubemap_per_texture GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_stencil8 GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_shader_integer_mix GL_ARB_clip_control GL_ARB_conditional_render_inverted GL_ARB_cull_distance GL_ARB_direct_state_access GL_ARB_get_texture_sub_image GL_ARB_pipeline_statistics_query GL_ARB_transform_feedback_overflow_query GL_EXT_polygon_offset_clamp GL_KHR_context_flush_control GL_KHR_no_error GL_KHR_texture_compression_astc_sliced_3d GL_MESA_shader_integer_functions GL_ARB_polygon_offset_clamp
+16:19:16.140 T:140448555026176  NOTICE: Running database version Addons27
+16:19:16.140 T:140448555026176  NOTICE: Running database version ViewModes6
+16:19:16.140 T:140448555026176  NOTICE: Running database version Textures13
+16:19:16.142 T:140448555026176  NOTICE: Running database version MyMusic60
+16:19:16.143 T:140448555026176  NOTICE: Running database version MyVideos107
+16:19:16.144 T:140448555026176  NOTICE: Running database version TV29
+16:19:16.144 T:140448555026176  NOTICE: Running database version Epg11
+16:19:16.223 T:140448571929344  NOTICE: start dvd mediatype detection
+16:19:16.613 T:140448571929344 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+16:19:16.742 T:140448571929344  NOTICE: initialize done
+16:19:16.742 T:140448571929344  NOTICE: Running the application...
+16:19:16.752 T:140448571929344  NOTICE: starting zeroconf publishing
+16:19:16.753 T:140448571929344  NOTICE: CWebServer[8080]: Started
+16:19:16.753 T:140448571929344  NOTICE: starting upnp client
+16:19:16.766 T:140448571929344   ERROR: JSONRPC Server: Failed to connect to sdpd
+16:19:16.780 T:140446697219840  NOTICE: ES: Starting UDP Event server on port 9777
+16:19:16.780 T:140446697219840  NOTICE: UDP: Listening on port 9777 (ipv6 : true)
+16:19:16.800 T:140446873401088  NOTICE: script.grab.fanart: Grab Fanart Service Started
