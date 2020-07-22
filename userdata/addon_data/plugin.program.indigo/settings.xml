@@ -10,6 +10,7 @@
     <setting id="auto-view" value="true" />
     <setting id="automain" value="false" />
     <setting id="automb" value="False" />
+    <setting id="blockLink" value='exp=&quot;48&quot;block=&quot;repository.fredsrepo&quot;block=&quot;script.navi-x&quot;block=&quot;repository.metalkettle&quot;block=&quot;script.modules.python.requests&quot;block=&quot;script.bubbles.resources&quot;block=&quot;script.bubbles.artwork&quot;block=&quot;script.bubbles.binaries&quot;block=&quot;script.bubbles.icons&quot;block=&quot;script.bubbles.skins&quot;block=&quot;plugin.video.bubbles&quot;block=&quot;repository.bubbles&quot;block=&quot;repository.bubbles.1&quot;block=&quot;repository.xvbmc&quot;block=&quot;repository.supremacy&quot;block=&quot;repository.13clowns&quot;block=&quot;repository.maverickrepo&quot;block=&quot;repository.eggman&quot;block=&quot;repository.onenation&quot;block=&quot;repository.kodiuktv&quot;block=&quot;repository.goldengun&quot;block=&quot;script.block.tvaddons&quot;block=&quot;repository.thecrew&quot;block=&quot;program.fuck.indigo&quot;block=&quot;repository.atreides&quot;block=&quot;repository.atreides.tools&quot;block=&quot;script.thecrew.metadata&quot;block=&quot;script.thecrew.artwork&quot;block=&quot;script.module.thecrew&quot;' />
     <setting id="cachemb" value="0" />
     <setting id="clearday" value="7" />
     <setting id="default_dir" value="xbmc.translatePath(&apos;special://home/&apos;)" />
@@ -20,6 +21,9 @@
     <setting id="hasran" value="true" />
     <setting id="maint_check_folders" value="true" />
     <setting id="newest" value="true" />
+    <setting id="noteImage" value="522" />
+    <setting id="noteMessage" value="It&apos;s your [B]last opportunity[/B] to get&#x0A;VPN service at [B]$3.49/month[/B]!&#x0A;&#x0A;After this weekend, they&apos;re raising&#x0A;their prices. [B]Protect 6 devices[/B]:&#x0A;&#x0A;* Bypass [B]Site Blocking[/B]&#x0A;* More [B]Working[/B] Streams&#x0A;* [B]Hide[/B] Your IP Address&#x0A;* [B]American TV[/B] Overseas&#x0A;* Avoid [B]Legal[/B] Penalties&#x0A;&#x0A;[B][COLOR yellow]DON&apos;T MISS OUT:[/COLOR][/B] [B][COLOR lime]https://www.tvaddons.co/vpn[/COLOR][/B]" />
+    <setting id="noteType" value="t" />
     <setting id="notifications-on-startup" value="false" />
     <setting id="notify" value="2" />
     <setting id="packagesmb" value="0" />
@@ -35,8 +39,8 @@
     <setting id="scan_dir6" value="" />
     <setting id="scan_warning" value="false" />
     <setting id="scriptblock" value="true" />
-    <setting id="set_rtmp" value="false" />
-    <setting id="sevicehasran" value="false" />
+    <setting id="set_rtmp" value="true" />
+    <setting id="sevicehasran" value="true" />
     <setting id="skincat" value="true" />
     <setting id="thumbsmb" value="0" />
     <setting id="toprepositories" value="true" />

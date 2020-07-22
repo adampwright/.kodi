@@ -219,7 +219,7 @@
         <displaysoff default="true">0</displaysoff>
         <shutdownstate default="true">0</shutdownstate>
         <shutdowntime default="true">0</shutdowntime>
-        <wakeonaccess default="true">true</wakeonaccess>
+        <wakeonaccess default="true">false</wakeonaccess>
     </powermanagement>
     <pvrmanager>
         <backendchannelorder default="true">true</backendchannelorder>
