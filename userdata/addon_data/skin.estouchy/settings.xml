@@ -1,6 +1,6 @@
 <settings>
     <setting id="UseCustomBackground" type="bool">false</setting>
-    <setting id="HideVizBackground" type="bool">false</setting>
     <setting id="HideVideoBackground" type="bool">false</setting>
+    <setting id="HideVizBackground" type="bool">false</setting>
     <setting id="CustomBackground" type="string"></setting>
 </settings>

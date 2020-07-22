@@ -100,7 +100,7 @@
         <addonforeignfilter default="true">false</addonforeignfilter>
         <addonnotifications default="true">false</addonnotifications>
         <addonupdates default="true">0</addonupdates>
-        <settinglevel>3</settinglevel>
+        <settinglevel>2</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
@@ -131,11 +131,11 @@
     </locale>
     <lookandfeel>
         <enablerssfeeds default="true">false</enablerssfeeds>
-        <font>Arial</font>
+        <font>NoTo</font>
         <rssedit default="true"></rssedit>
-        <skin default="true">skin.estuary</skin>
-        <skincolors>midnight</skincolors>
-        <skintheme>curial</skintheme>
+        <skin>skin.aeon.nox.5</skin>
+        <skincolors default="true">SKINDEFAULT</skincolors>
+        <skintheme default="true">SKINDEFAULT</skintheme>
         <skinzoom default="true">0</skinzoom>
         <soundskin default="true">resource.uisounds.kodi</soundskin>
         <startupwindow default="true">10000</startupwindow>
@@ -405,12 +405,12 @@
         <ditherdepth default="true">8</ditherdepth>
         <fakefullscreen default="true">true</fakefullscreen>
         <limitedrange default="true">false</limitedrange>
-        <monitor default="true">Default</monitor>
+        <monitor>default</monitor>
         <noofbuffers default="true">3</noofbuffers>
         <preferedstereoscopicmode default="true">100</preferedstereoscopicmode>
-        <resolution default="true">16</resolution>
+        <resolution>15</resolution>
         <screen default="true">0</screen>
-        <screenmode default="true">DESKTOP</screenmode>
+        <screenmode>WINDOW</screenmode>
         <stereoscopicmode default="true">0</stereoscopicmode>
     </videoscreen>
     <weather>
@@ -636,6 +636,6 @@
     </viewstates>
     <audio>
         <mute>false</mute>
-        <fvolumelevel>1.000000</fvolumelevel>
+        <fvolumelevel>0.844444</fvolumelevel>
     </audio>
 </settings>
