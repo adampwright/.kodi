@@ -105,7 +105,7 @@
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>8</systemtotaluptime>
+        <systemtotaluptime>11</systemtotaluptime>
     </general>
     <input>
         <asknewcontrollers default="true">true</asknewcontrollers>
@@ -131,9 +131,9 @@
     </locale>
     <lookandfeel>
         <enablerssfeeds default="true">false</enablerssfeeds>
-        <font>NoTo</font>
+        <font default="true">Default</font>
         <rssedit default="true"></rssedit>
-        <skin>skin.aeon.nox.5</skin>
+        <skin>skin.confluence</skin>
         <skincolors default="true">SKINDEFAULT</skincolors>
         <skintheme default="true">SKINDEFAULT</skintheme>
         <skinzoom default="true">0</skinzoom>
@@ -399,7 +399,7 @@
         <cmsmode default="true">0</cmsmode>
         <cmsprimaries default="true">0</cmsprimaries>
         <cmswhitepoint default="true">0</cmswhitepoint>
-        <delayrefreshchange default="true">0</delayrefreshchange>
+        <delayrefreshchange>198</delayrefreshchange>
         <displayprofile default="true"></displayprofile>
         <dither default="true">false</dither>
         <ditherdepth default="true">8</ditherdepth>

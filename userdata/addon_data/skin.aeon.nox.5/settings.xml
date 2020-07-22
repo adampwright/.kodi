@@ -1,15 +1,8 @@
 <settings>
-    <setting id="Disable.ShowBackgroundVis" type="bool">false</setting>
-    <setting id="Enable.AutoScroll" type="bool">false</setting>
-    <setting id="Disable.Extrafanart" type="bool">false</setting>
-    <setting id="Disable.Videoinfo" type="bool">false</setting>
-    <setting id="Disable.Autocomplete" type="bool">false</setting>
-    <setting id="infobar_hidetencrypt" type="bool">false</setting>
-    <setting id="Detach.RSS" type="bool">false</setting>
-    <setting id="biggergap" type="bool">true</setting>
+    <setting id="Enable.HideRatings" type="bool">false</setting>
     <setting id="infobar_hidesignalinfo" type="bool">false</setting>
     <setting id="lowermainmenu" type="bool">false</setting>
-    <setting id="Enable.HideRatings" type="bool">false</setting>
+    <setting id="biggergap" type="bool">true</setting>
     <setting id="Disable.FanartTitle" type="bool">true</setting>
     <setting id="VideoInfoPlotToggle" type="bool">false</setting>
     <setting id="mainmenuicons" type="bool">false</setting>
@@ -29,12 +22,18 @@
     <setting id="infobar_hidetuners" type="bool">false</setting>
     <setting id="weatherfanart.multi" type="bool">false</setting>
     <setting id="Disable.ShowBackgroundVideo" type="bool">false</setting>
+    <setting id="Disable.Videoinfo" type="bool">false</setting>
+    <setting id="Disable.ShowBackgroundVis" type="bool">false</setting>
+    <setting id="Disable.Extrafanart" type="bool">false</setting>
+    <setting id="Enable.AutoScroll" type="bool">false</setting>
+    <setting id="Disable.Autocomplete" type="bool">false</setting>
+    <setting id="infobar_hidetencrypt" type="bool">false</setting>
+    <setting id="Detach.RSS" type="bool">false</setting>
+    <setting id="PicturesHomeItem.MultiFanart" type="string"></setting>
+    <setting id="MusicVideoHomeItem.Path" type="string"></setting>
     <setting id="Custom3HomeItem.Label" type="string"></setting>
     <setting id="Custom1HomeItem.BGType" type="string"></setting>
     <setting id="TVShowHomeItem.MultiFanart" type="string"></setting>
-    <setting id="Custom5HomeItem.MultiFanart" type="string"></setting>
-    <setting id="MusicVideoHomeItem.Path" type="string"></setting>
-    <setting id="PicturesHomeItem.MultiFanart" type="string"></setting>
     <setting id="Custom5HomeItem.InfoLine" type="string"></setting>
     <setting id="Custom4HomeItem.SubMenu" type="string"></setting>
     <setting id="PicturesHomeItem.WidgetLabel" type="string"></setting>
@@ -89,6 +88,7 @@
     <setting id="VideosHomeItem.Label" type="string"></setting>
     <setting id="ProgramsHomeItem.Path" type="string"></setting>
     <setting id="Custom4HomeItem.WidgetLabel" type="string"></setting>
+    <setting id="Custom5HomeItem.MultiFanart" type="string"></setting>
     <setting id="weathericons.path" type="string"></setting>
     <setting id="Custom3HomeItem.MultiFanart" type="string"></setting>
     <setting id="Custom2HomeItem.Icon" type="string"></setting>
@@ -254,4 +254,6 @@
     <setting id="Videos.Fallback" type="string"></setting>
     <setting id="StudioLogos.path" type="string"></setting>
     <setting id="Overlay.Toggle" type="string"></setting>
+    <setting id="Apps.Fallback" type="string"></setting>
+    <setting id="Pictures.Fallback" type="string"></setting>
 </settings>
