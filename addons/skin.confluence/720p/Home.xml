@@ -1199,8 +1199,8 @@
 				<description>LOGO</description>
 				<left>10</left>
 				<top>5</top>
-				<width>120</width>
-				<height>49</height>
+				<width>200</width>
+				<height>60</height>
 				<aspectratio aligny="top" align="left">keep</aspectratio>
 				<texture>wrightway_logo.png</texture>
 				<include>VisibleFadeEffect</include>
